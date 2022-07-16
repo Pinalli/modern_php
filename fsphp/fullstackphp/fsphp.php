@@ -1,10 +1,5 @@
 <?php
-/**
- * Formação Full Stack PHP Developer UpInside
- * @author Robson V. Leite <https://www.upinside.com.br>
- *
- * Document content and charset
- */
+
 header("Content-Type: text/html; charset=utf-8");
 
 
