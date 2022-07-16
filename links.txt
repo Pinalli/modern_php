@@ -1,0 +1,3 @@
+php.net 
+php-fig.org
+phptherightway.com
